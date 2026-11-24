@@ -1,0 +1,24 @@
+[
+  {
+    "query": "Python backend ownership without people management",
+    "relevant_ids": [
+      "js-101",
+      "js-102",
+      "js-105"
+    ]
+  },
+  {
+    "query": "React full stack product feature work",
+    "relevant_ids": [
+      "js-104",
+      "js-101"
+    ]
+  },
+  {
+    "query": "Java backend services",
+    "relevant_ids": [
+      "js-106",
+      "js-101"
+    ]
+  }
+]
